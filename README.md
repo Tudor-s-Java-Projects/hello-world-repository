@@ -10,4 +10,8 @@ text2
 
 'text with simple quotes'
 
-![screenshots](01.jpg)
+Prima poza:
+<img src='screenshots/01.png'/>
+
+A doua poza:
+<img src='screenshots/02.png'/>
