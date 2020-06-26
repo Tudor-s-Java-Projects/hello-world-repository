@@ -20,4 +20,5 @@ A doua poza:<br>
 <b>Subcategorie</b><br>
 <h3>Titlu Paragraf</h3>
 Test text fara aliniat.<br>
-&nbsp;&nbsp;&nbsp;Un text cu spatii la inceput.
+&nbsp;&nbsp;&nbsp;Un text cu spatii la inceput.<br>
+SFARSIT.
