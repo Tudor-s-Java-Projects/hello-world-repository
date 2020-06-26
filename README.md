@@ -11,7 +11,6 @@ text2
 
 Prima poza:<br>
 <img src='screenshots/01.png'/>
-
 A doua poza:<br>
 <img src='screenshots/02.png'/>
 
