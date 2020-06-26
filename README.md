@@ -10,7 +10,7 @@ text2
 
 'text with simple quotes'
 
-Prima poza:<br>
+<br>Prima poza:<br>
 <img src='screenshots/01.png'/><br>
 
 A doua poza:<br>
