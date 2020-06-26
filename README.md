@@ -14,10 +14,10 @@ text2
 
 'text with simple quotes'
 
-Prima poza:
+Prima poza:<br>
 <img src='screenshots/01.png'/>
 
-A doua poza:
+A doua poza:<>
 <img src='screenshots/02.png'/>
 
 <h1>Titlu Principal</h1>
