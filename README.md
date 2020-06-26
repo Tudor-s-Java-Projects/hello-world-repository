@@ -10,8 +10,31 @@ text2
 
 'text with simple quotes'
 
-<br>Prima poza:<br>
+<br>Prima poza:
 <img src='screenshots/01.png'/><br>
 
-<br>A doua poza:<br>
+<br>A doua poza:
 <img src='screenshots/02.png'/><br>
+
+<h2>Titlu Principal</h2>
+
+<h3>Titlu Paragraf</h3>
+
+<h3>Titlu Paragraf</h3>
+
+<h3>Titlu Paragraf</h3>
+
+<h3>Titlu Paragraf</h3>
+
+<h3>Titlu Paragraf</h3>
+
+<b>Subcategorie</b>
+
+<b>Subcategorie</b>
+
+<b>Subcategorie</b>
+
+<b>Subcategorie</b>
+
+<h3>Titlu Paragraf</h3>
+
