@@ -49,4 +49,4 @@ A doua poza:<br>
 
 Test text fara aliniat.
 
-&nbps;&nbps;&nbps;Un text cu spatii la inceput.
+&nbps &nbps &nbps Un text cu spatii la inceput.
