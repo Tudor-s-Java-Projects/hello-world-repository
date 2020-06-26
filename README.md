@@ -47,3 +47,5 @@ A doua poza:<br>
 
 <h3>Titlu Paragraf</h3>
 
+Test text fara aliniat.
+  Un text cu spatii la inceput.
