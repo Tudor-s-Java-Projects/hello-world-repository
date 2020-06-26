@@ -14,10 +14,10 @@ A doua poza:<br>
 <h3>Titlu Paragraf</h3>
 <h3>Titlu Paragraf</h3>
 <h3>Titlu Paragraf</h3>
-<b>Subcategorie</b>
-<b>Subcategorie</b>
-<b>Subcategorie</b>
-<b>Subcategorie</b>
+<b>Subcategorie</b><br>
+<b>Subcategorie</b><br>
+<b>Subcategorie</b><br>
+<b>Subcategorie</b><br>
 <h3>Titlu Paragraf</h3>
 Test text fara aliniat.<br>
 &nbsp;&nbsp;&nbsp;Un text cu spatii la inceput.
