@@ -1,6 +1,7 @@
 <h3> Just some repository used for learning how to use GitHub </h3>
 text1<br>
 text2<br>
+
 <some_text_to_check_if_seen_as_html_tag><br>
 "text with double quotes"<br>
 'text with simple quotes'<br>
