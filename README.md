@@ -1,3 +1,4 @@
+Text cu ghilimele = “setText”
 some paragraph.
 <br><br>
 some other paragraph:
