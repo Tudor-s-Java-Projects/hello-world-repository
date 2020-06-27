@@ -1,7 +1,14 @@
-If the input becomes invalid, the text changes its color to red:
+some paragraph.
+<br><br>
+some other paragraph:
+<br>
+<img src='screenshots/01.png'/><br>
+<br>
+another paragraph:
 <br>
 <img src='screenshots/02.png'/><br>
 <br>
+
 
 un rand
 <br><br>
