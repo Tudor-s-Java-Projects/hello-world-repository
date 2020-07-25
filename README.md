@@ -57,7 +57,7 @@ Un link la Gogu <a href = "http://www.google.com">AICI</a>.
 </tr>
 </table>
 
-a - &lt;value_of_b&gt; = c
+a - &ltvalue_of_b&gt = c
 <br>
 a - &lt;value_of_b&gt; = c
 <br>
