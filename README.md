@@ -58,15 +58,19 @@ Un link la Gogu <a href = "http://www.google.com">AICI</a>.
 </table>
 
 a - &lt;value_of_b&gt; = c
+<br>
 a - &lt;value_of_b&gt; = c
-
+<br>
 
 ap&#259;.
-
+<br>
 
 “abc”
+<br>
 "abc"
-
+<br>
 ’ vs '
+<br>
 don’t
+<br>
 don't
