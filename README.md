@@ -66,6 +66,7 @@ a - &lt;value_of_b&gt; = c
 ap&#259;.
 <br>
 <a name="ancora"></a>
+Continuare dupa ancora
 “abc”
 <br>
 "abc"
