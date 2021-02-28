@@ -24,8 +24,8 @@ text2<br>
 'text with simple quotes'<br>
 Prima poza:<br>
 <img src='screenshots/01.png'/><br>
-A doua poza:<br>
-<img src='screenshots/02.png' width='203' height='65'/><br>
+A doua poza, resized:<br>
+<img src='screenshots/02.png' width='2030' height='650'/><br>
 <h1>Titlu Principal</h1>
 <h3>Titlu Paragraf</h3>
 <h3>Titlu Paragraf</h3>
