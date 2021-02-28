@@ -1,3 +1,4 @@
+<a href="#ancora">First Anchor</a>
 Text cu ghilimele = "setText"
 some paragraph.
 <br><br>
@@ -64,7 +65,7 @@ a - &lt;value_of_b&gt; = c
 
 ap&#259;.
 <br>
-
+<a name="ancora"></a>
 “abc”
 <br>
 "abc"
